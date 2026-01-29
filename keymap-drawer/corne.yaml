@@ -85,6 +85,6 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - '&studio_unlock'
   - {t: ▽, type: trans}
-  - '&tran s'
+  - {t: ▽, type: trans}
   - {t: '&studio_unlock', type: held}
   - $$mdi:apple-keyboard-option$$
