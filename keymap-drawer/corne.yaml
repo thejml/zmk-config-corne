@@ -3,7 +3,7 @@ layers:
   BAS: [↹, Q, W, E, R, T, Y, U, I, O, P, '$$mdi:backspace-outline$$', Esc, A, S, D, F, G, H, J, K, L, ;, '''', '$$mdi:apple-keyboard-shift$$', Z, X, C, V, B, N, M,
     ',', ., /, '$$mdi:apple-keyboard-control$$', '$$mdi:apple-keyboard-command$$', LOW, ⏎, ␣, RAI, '$$mdi:apple-keyboard-option$$']
   LOW:
-  - GRV
+  - '`'
   - '1'
   - '2'
   - '3'
@@ -21,12 +21,12 @@ layers:
   - BT 3
   - BT 4
   - BT 5
-  - MINS
+  - '-'
   - '4'
   - '5'
   - '6'
   - '{'
-  - {t: ▽, type: trans}
+  - '}'
   - $$mdi:apple-keyboard-shift$$
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -37,8 +37,8 @@ layers:
   - '1'
   - '2'
   - '3'
-  - LPRN
-  - {t: ▽, type: trans}
+  - '['
+  - ']'
   - $$mdi:apple-keyboard-command$$
   - {type: held}
   - {t: ▽, type: trans}
